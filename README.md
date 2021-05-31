@@ -25,10 +25,6 @@ Genaro Network
 * What has been the business impact of this company so far?
 Adding the ability of micro-payments on top of the Bitcoin network.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 
 Metric | Data
