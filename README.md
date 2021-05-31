@@ -13,15 +13,30 @@ The software provided can be integrated into any current webapp to include light
 ## Landscape:
 * What domain of the financial industry is the company in?
 Payment Gateway
+Financial Services Technologies
+Blockchain infrastructure
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 Adding Bitcoin payment capabilities to any business.
 * What are the other major companies in this domain?
+Bison Trails
+Horizen
+Genaro Network
 ## Results
 * What has been the business impact of this company so far?
+Adding the ability of micro-payments on top of the Bitcoin network.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Lightning Network Nodes: 20,896 (5.88% increase in the last 30 days)
+Lightning Network Capacity: 1,397.77 BTC (13.81% increase in the last 30 days)
 * How is your company performing relative to competitors in the same domain?
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 * Why do you think that offering this product or service would benefit the company?
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
+
+Sources:
+Competition
+https://craft.co/lightning-labs/competitors
+Number of Nodes statistics
+https://1ml.com/statistics
+
