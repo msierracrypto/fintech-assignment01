@@ -25,8 +25,8 @@ Genaro Network
 * What has been the business impact of this company so far?
 Adding the ability of micro-payments on top of the Bitcoin network.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-Metric                    | Data
------------------------   | -------------------------------------------
+Metric | Data
+------ | -------------------------------------------
 Lightning Network Nodes   | 20,896 (5.88% increase in the last 30 days)
 Lightning Network Capacity|1,397.77 BTC (13.81% increase in the last 30 days)
 
