@@ -30,7 +30,8 @@ Adding the ability of micro-payments on top of the Bitcoin network.
 Metric | Data
 ------ | -------------------------------------------
 Lightning Network Nodes   | 20,896 (5.88% increase in the last 30 days)
-Lightning Network Capacity|1,397.77 BTC (13.81% increase in the last 30 days)
+Lightning Network Capacity| 1,397.77 BTC (13.81% increase in the last 30 days)
+Nodes with Active Channels| 11,583
 
 * How is your company performing relative to competitors in the same domain?
 ## Recommendations
