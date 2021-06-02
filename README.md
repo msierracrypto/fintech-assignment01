@@ -31,9 +31,13 @@ Metric | Data
 ------ | -------------------------------------------
 Lightning Network Nodes   | 20,896 (5.88% increase in the last 30 days)
 Lightning Network Capacity| 1,397.77 BTC (13.81% increase in the last 30 days)
-Nodes with Active Channels| 11,583
+Nodes with Active Channels| 11,583 (7.15% increase in the last 30 days)
+
+The % increases from month to month are increasing
 
 * How is your company performing relative to competitors in the same domain?
+Lightning Labs products are gaining a lot of momentum in the Layer 2, or sidechain.
+
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 * Why do you think that offering this product or service would benefit the company?
@@ -45,4 +49,6 @@ Competition
 https://craft.co/lightning-labs/competitors
 Number of Nodes statistics
 https://1ml.com/statistics
+Video
+https://www.youtube.com/watch?v=Kt1X1VL547Q
 
