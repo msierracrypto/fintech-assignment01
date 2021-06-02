@@ -40,8 +40,11 @@ Lightning Labs products are gaining a lot of momentum in the Layer 2, or sidecha
 
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+The company can create credit cards, point accumulation systems like restaurant apps.
 * Why do you think that offering this product or service would benefit the company?
+This will expand the revenue streams.
 * What technologies would this additional product or service utilize?
+Mobile App solutions.
 * Why are these technologies appropriate for your solution?
 
 ## Sources:
