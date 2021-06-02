@@ -44,11 +44,11 @@ Lightning Labs products are gaining a lot of momentum in the Layer 2, or sidecha
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
 
-Sources:
-Competition
+## Sources:
+* Competition
 https://craft.co/lightning-labs/competitors
-Number of Nodes statistics
+* Number of Nodes statistics
 https://1ml.com/statistics
-Video
+* Video
 https://www.youtube.com/watch?v=Kt1X1VL547Q
 
